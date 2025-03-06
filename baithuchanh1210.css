@@ -1,0 +1,57 @@
+.mot a{
+    display:inline-block;
+    padding:10px;
+    font-size:20px;
+    color:black;
+    text-decoration:none;
+}
+.anh{
+    float:right;
+    padding:10px;
+
+}
+.bl{
+   
+}
+.hai{
+    float:left;
+}
+.wao{
+    width:100%;
+}
+.tuan{
+    width: 125%;
+
+}
+.kien{
+   margin-left:25%;
+   margin-bottom:30%;
+   width:73%;
+   background-color: rgb(214, 235, 252);
+}
+.hieu{
+    margin-left:18%;
+    margin-right:25%;
+    margin-top:18%;
+}
+.ok{
+    margin-left:18%;
+    margin-right:45%;
+}
+.thien{
+    margin-left:25%;
+    margin-right:25%;
+}
+.hk{
+    width:100%;
+    height:50px;
+}
+.kh{
+    width:100%;
+    height:50px;
+    color:white;
+    background-color: rgb(22, 19, 19);
+}
+.cuong{
+    background-color: rgb(255,229,206);
+}
